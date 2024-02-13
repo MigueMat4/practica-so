@@ -9,5 +9,7 @@ Este repositorio servirá para practicar git en consola
 - Mario
 - Diego
 - María
+print("Maria ESther Tiguila SOloj")
+print("1627021")
 - Dennys
 - Josué
