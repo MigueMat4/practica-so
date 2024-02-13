@@ -2,7 +2,7 @@
 Este repositorio servirá para practicar git en consola
 
 # Estudiantes
-- Arqui
+- Arqui: Andree Robles 1523820
 - Marco
 - Pablo
 - Rodrigo
