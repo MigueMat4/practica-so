@@ -4,7 +4,7 @@ Este repositorio servirá para practicar git en consola
 # Estudiantes
 - Arqui
 - Marco
-- Pablo
+- Pablo Andres Coti Arredondo - 1653221
 - Rodrigo
 - Mario
 - Diego
