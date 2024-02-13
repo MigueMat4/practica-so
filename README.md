@@ -9,5 +9,5 @@ Este repositorio servirá para practicar git en consola
 - Mario
 - Diego
 - María
-- Dennys
+- Dennys Rolando Y Carreto Aguilon - 2276616
 - Josué
