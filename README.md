@@ -5,7 +5,7 @@ Este repositorio servirá para practicar git en consola
 - Arqui
 - Marco
 - Pablo
-- Rodrigo
+- Rodrigo Ovalle 1557020
 - Mario
 - Diego
 - María
