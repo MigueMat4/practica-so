@@ -6,7 +6,7 @@ Este repositorio servirá para practicar git en consola
 - Marco
 - Pablo
 - Rodrigo
-- Mario
+- Mario Daniel Sajvin Gomez, 1612921
 - Diego
 - María
 - Dennys
