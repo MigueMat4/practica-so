@@ -3,7 +3,7 @@ Este repositorio servirá para practicar git en consola
 
 # Estudiantes
 - Arqui
-- Marco Andrés Paz Mazariegos 1528020
+- Marco
 - Pablo
 - Rodrigo
 - Mario
