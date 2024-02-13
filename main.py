@@ -9,6 +9,8 @@ print("Docente: Ing. Miguel Matul")
 # Rodrigo
 
 # Mario
+print("Mario Daniel Sajvin Gomez")
+print("1612921")
 
 # Diego
 
