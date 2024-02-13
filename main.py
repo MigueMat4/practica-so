@@ -10,6 +10,8 @@ print("Marco Andrés Paz Mazariegos 1528020")
 # Rodrigo
 
 # Mario
+print("Mario Daniel Sajvin Gomez")
+print("1612921")
 
 # Diego
 
