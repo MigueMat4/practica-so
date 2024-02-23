@@ -5,7 +5,7 @@ Este repositorio servirá para practicar git en consola
 - Arqui
 - Marco Andrés Paz Mazariegos 1528020
 - Pablo
-- Rodrigo
+- Rodrigo Ovalle 1557020
 - Mario
 - Diego Jose Abdo Estrada 1625021
 - María
