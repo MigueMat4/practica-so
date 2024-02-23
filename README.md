@@ -7,7 +7,7 @@ Este repositorio servirá para practicar git en consola
 - Pablo
 - Rodrigo
 - Mario
-- Diego
+- Diego Jose Abdo Estrada 1625021
 - María
 - Dennys
 - Josué
