@@ -10,4 +10,4 @@ Este repositorio servirá para practicar git en consola
 - Diego Jose Abdo Estrada 1625021
 - María
 - Dennys
-- Josué
+- Josue Manuel Maldonado Lepe  1664220
